@@ -1,0 +1,6 @@
+{
+  "name": "Sahaayi - Digital Independence Guide for DigiLocker",
+  "description": "A multilingual voice-guided digital companion helping first-time women users in rural India independently access and use DigiLocker step by step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
